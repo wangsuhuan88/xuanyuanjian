@@ -1,0 +1,36 @@
+body{ _position:relative}
+.gb-side-box{ position:fixed; bottom:2px; right:0; margin-left:500px; z-index:900;  _position:absolute}
+.gb-side-box-c1{ display:none; background:#3b3b3b; width:34px; height:106px}
+.gb-side-box .sep{ color:#858585; padding:6px 0; font-family:Arial; font-size:14px}
+.gb-side-box .btn-show{ line-height:1; text-align:center; cursor:pointer; color:#ddd; width:16px; padding:0 9px}
+.gb-side-box-c2{ width:180px; position:relative; display:block}
+.gb-side-box-c2 .hd{ height:34px; padding-left:9px; background:#3c3c3c} 
+.gb-side-box-c2 .hd .tit{ color:#dcdcdc; font-weight:bold; font-size:14px; line-height:34px}
+.gb-side-box-c2 .bd{ padding:9px 9px 0; background:#fff; border:1px solid #d5d5d5; border-top:none}
+.gb-side-box .btn-close{ position:absolute; top:2px; right:9px; cursor:pointer; font-family:Arial; color:#666; line-height:1; font-size:30px} 
+.gb-side-box .info-box{ padding-bottom:9px}
+.gb-side-box .intro-box{ padding-bottom:9px}
+.gb-side-box .intro-box .item{ line-height:24px; color:#a168dc}
+.gb-side-box .intro-box .item .tit{ color:#939393}
+.gb-side-box .intro-box .item a{ color:#a168dc}
+.gb-side-box .detail-box{ border-top:1px solid #939393; padding-top:10px; *zoom:1}
+.gb-side-box .pic-box{ text-align:center}
+.gb-side-box .pic-box .con{ display:block; color:#ff5f1e; font-size:14px}
+.gb-side-box .pic-box .c1{ display:block; padding-bottom:7px}
+.gb-side-box .pic-box .c2{ display:block; line-height:20px}
+.gb-side-box .link-box{ overflow:hidden; *zoom:1}
+.gb-side-box .btn{ display:block; width:124px; height:34px; line-height:34px; color:#7150a7; font-size:14px; text-align:center; background:#ddc2f8}
+.gb-side-box .btn:hover{ text-decoration:none; }
+.gb-side-box .btn-download{ float:left}
+.gb-side-box .btn-code{ display:block; float:left; border:3px solid #c6c6c6}
+.gb-side-box .btn-code:hover{ border-color:#7a7a7a}
+.gb-side-box .btn-code .pic-code-s{ width:28px; height:28px}
+.gb-side-box .info-box .link-box{ margin-top:7px}
+.gb-side-box .code-box{ display:none; padding:0px 0 9px 0}
+.gb-side-box .code-box .txt{ color:#a168dc; text-align:center; padding:0px 0 4px 0}
+.gb-side-box .code-box .link-game{ color:#ff5f1e; font-size:14px; display:block; text-align:center; line-height:20px}
+.gb-side-box .code-box .link-game .con{ display:block}
+.gb-side-box .code-box .info{ color:#a168dc; line-height:20px; padding:8px 0 10px 0}
+.gb-side-box .txt5{color: #da76ff; text-decoration: underline;}
+
+.gb-side-box .btn-back{ background:#c6c6c6; margin:0 auto;color: #fff;}
